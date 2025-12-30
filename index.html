@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Space | MD</title>
+  <link rel="shortcut icon" href="favicon.png">
+  
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  
+  <script src="https://cdn.tailwindcss.com"></script>
+  
+  <script src="https://code.iconify.design/3/3.1.1/iconify.min.js"></script>
+
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.production.min.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.production.min.js"></script>
+  
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <style>
+    * {
+      font-family: 'Montserrat', sans-serif;
+      box-sizing: border-box;
+      outline: none;
+    }
+    html {
+      scroll-behavior: smooth;
+    }
+    
+    /* Animaciones Personalizadas */
+    @keyframes fadeInDown {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .dropdown-animate { animation: fadeInDown 0.2s ease-out forwards; }
+
+    /* Animación dorada para Socios */
+    @keyframes gold-shine {
+      0%, 100% { border-color: #fbbf24; box-shadow: 0 0 5px rgba(251, 191, 36, 0.3); }
+      50% { border-color: #f59e0b; box-shadow: 0 0 15px rgba(245, 158, 11, 0.6); }
+    }
+    .partner-card {
+       animation: gold-shine 3s ease-in-out infinite;
+       border-width: 2px;
+    }
+    
+    /* Ocultar Scrollbar pero permitir scroll */
+    .hide-scrollbar::-webkit-scrollbar { display: none; }
+    .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 font-sans selection:bg-gray-900 selection:text-white pb-12">
+
+  <div id="root"></div>
+
+  <script type="text/babel" src="./app.js"></script>
+</body>
+</html>
