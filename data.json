@@ -133,15 +133,15 @@
     "space": "Electricidad",
     "type": "Técnico Eléctrico",
     "actionType": "web",
-    "actionLink": "https://mercado-digital-page.github.io/espacio/pv-energy/brochure/",
+    "actionLink": "https://space-md.github.io/espacio/pv-energy/brochure/",
     "color": "#03152A",
     "tier": "boost",
     "whatsapp": "51989357969",
     "location": "Lima",
     "locationLink": "https://maps.app.goo.gl/9LfRrcQ4xiwaMwzQA",
     "description": "Soluciones eléctricas confiables y seguras para hogares y negocios en Lima.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/pv-energy/profile.png",
-    "bannerImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/pv-energy/instalacion-electrica.png"
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/pv-energy/profile.png",
+    "bannerImage": "https://space-md.github.io/admin/clientes/multimedia/pv-energy/instalacion-electrica.png"
   },
   {
     "id": 10,
@@ -149,15 +149,15 @@
     "space": "Electricidad",
     "type": "Sistemas de Seguridad",
     "actionType": "web",
-    "actionLink": "https://mercado-digital-page.github.io/espacio/j&l/brochure/",
+    "actionLink": "https://space-md.github.io/espacio/j&l/brochure/",
     "color": "#011248",
     "tier": "socio",
     "whatsapp": "51955679216",
     "location": "Piura",
     "locationLink": "https://maps.app.goo.gl/KRGHSEFpBtAecf598",
     "description": "Instalaciones eléctricas, cercos perimetrales, cámaras y alarmas inteligentes en Piura.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/j&l/profile.png",
-    "bannerImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/j&l/servicio-electrico-2.png"
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/j&l/profile.png",
+    "bannerImage": "https://space-md.github.io/admin/clientes/multimedia/j&l/servicio-electrico-2.png"
   },
   {
     "id": 11,
@@ -165,14 +165,14 @@
     "space": "Salud Animal",
     "type": "Clínica Veterinaria",
     "actionType": "web",
-    "actionLink": "https://mercado-digital-page.github.io/espacio/acuivetlife/brochure/",
+    "actionLink": "https://space-md.github.io/espacio/acuivetlife/brochure/",
     "color": "#015B7E",
     "tier": "boost",
     "whatsapp": "51966975484",
     "location": "Sunampe",
     "locationLink": "https://maps.app.goo.gl/8bpM1JWcLi472CCq8",
     "description": "Cuidado integral de mascotas con enfoque en medicina moderna y capacitación técnica.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/acuivetlife/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/acuivetlife/profile.png",
     "bannerImage": ""
   },
   {
@@ -188,7 +188,7 @@
     "location": "Carabayllo",
     "locationLink": "https://maps.app.goo.gl/c8QShPpdFYQGmdqAA",
     "description": "Bienestar animal: guardería, entrenamiento, tienda y servicios veterinarios especializados.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/animal-space/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/animal-space/profile.png",
     "bannerImage": "https://scontent.flim18-1.fna.fbcdn.net/v/t39.30808-6/604610184_1381830543959661_2090147822884782968_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEEesH8O29-jtnFdww_1e7Di9Tt-2Ux7nqL1O37ZTHueoKovPG5B-tUGIzBBpCXDN-M7VkJVvCndEcvSsP5LnjG&_nc_ohc=SI6rKUIlKeAQ7kNvwE0aXtn&_nc_oc=Adnt4rX1-fGwerHbp5Bu_gwP-PhCyPUvaVyjPOQgcHR2ASzQjNP0HRjAzzsAICDzKQk&_nc_zt=23&_nc_ht=scontent.flim18-1.fna&_nc_gid=ZJ9BdLC1Mc4eIWYgiTZuHg&oh=00_AfnCVsfZ3JHfexCyQIUmReCxOiig4yZbwnTp83HJzleAeQ&oe=69591B1E"
   },
   {
@@ -204,7 +204,7 @@
     "location": "Lima",
     "locationLink": "https://maps.app.goo.gl/Ubg9LCbpFYQcykjZ7",
     "description": "Comprometidos con tu bienestar mediante diagnóstico preciso y atención humanizada.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/ma-salud/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/ma-salud/profile.png",
     "bannerImage": ""
   },
   {
@@ -213,14 +213,14 @@
     "space": "Entretenimiento",
     "type": "Sorteos",
     "actionType": "web",
-    "actionLink": "https://mercado-digital-page.github.io/espacio/lotoboom/brochure/",
+    "actionLink": "https://space-md.github.io/espacio/lotoboom/brochure/",
     "color": "#0D0D0D",
     "tier": "normal",
     "whatsapp": "51966002733",
     "location": "Virtual",
     "locationLink": "",
     "description": "Tu espacio virtual de emoción y suerte con bingo y rifas desde casa.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/lotoboom/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/lotoboom/profile.png",
     "bannerImage": ""
   },
   {
@@ -236,7 +236,7 @@
     "location": "Chiclayo",
     "locationLink": "https://maps.app.goo.gl/Hd2mr3KJjUQSGPjz9",
     "description": "Servicios geodésicos y fotogrametría con tecnología de punta y 10 años de experiencia.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/topocaj/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/topocaj/profile.png",
     "bannerImage": "https://www.ingeom.es/images/easyblog_articles/83/b2ap3_amp_levantamiento-replanteo-topografico-.jpg"
   },
   {
@@ -252,8 +252,8 @@
     "location": "Lima",
     "locationLink": "https://maps.app.goo.gl/D8TqfiHxsDZEMB9V8",
     "description": "Especialistas en tapas pilfer de alta calidad para un cierre seguro y duradero.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/tapi-mundo/profile.png",
-    "bannerImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/tapi-mundo/personalizacion.png"
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/tapi-mundo/profile.png",
+    "bannerImage": "https://space-md.github.io/admin/clientes/multimedia/tapi-mundo/personalizacion.png"
   },
   {
     "id": 17,
@@ -268,7 +268,7 @@
     "location": "Lima",
     "locationLink": "https://maps.app.goo.gl/D8TqfiHxsDZEMB9V8",
     "description": "Especialistas en drywall, electricidad y acabados profesionales desde el 2010.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/sarych/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/sarych/profile.png",
     "bannerImage": "https://www.serviciodeelectricidad.com/wp-content/uploads/Electricistas-En-Ate-Electricista-De-Emergencia-En-Ate-Tecnico-Electricista-A-Domicilio-En-Ate-Instalacion-Electrica-En-Ate-Cableado-Electrico-En-Ate.png"
   },
   {
@@ -277,14 +277,14 @@
     "space": "Servicios Técnicos",
     "type": "Multiservicios",
     "actionType": "web",
-    "actionLink": "https://mercado-digital-page.github.io/espacio/markyto/card/",
+    "actionLink": "https://space-md.github.io/espacio/markyto/card/",
     "color": "#0D0D0D",
     "tier": "boost",
     "whatsapp": "51967626428",
     "location": "Callao",
     "locationLink": "https://maps.app.goo.gl/VDpu4FTrr5vbi3Pv6",
     "description": "Aliado de confianza para reparaciones, gasfitería y mantenimiento integral de tu hogar.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/markyto/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/markyto/profile.png",
     "bannerImage": ""
   },
   {
@@ -300,7 +300,7 @@
     "location": "Miraflores",
     "locationLink": "https://maps.app.goo.gl/wFDExvUc2Vsvx6Sf8",
     "description": "Limpieza integral impecable para oficinas y espacios comerciales en Lima.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/limpet/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/limpet/profile.png",
     "bannerImage": ""
   },
   {
@@ -316,7 +316,7 @@
     "location": "Cusco",
     "locationLink": "https://maps.app.goo.gl/obmBa4ReCbFAfdoz9",
     "description": "Convertimos tus sueños en espacios mediante diseños que inspiran en Cusco.",
-    "profileImage": "https://mercado-digital-page.github.io/admin/clientes/multimedia/ayala/profile.png",
+    "profileImage": "https://space-md.github.io/admin/clientes/multimedia/ayala/profile.png",
     "bannerImage": ""
   },
   {
