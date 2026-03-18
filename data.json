@@ -334,5 +334,21 @@
     "description": "Agua de manantial, alcalina, ozonizada y natural",
     "profileImage": "https://space-md.github.io/admin/clientes/multimedia/agua-mael/profile.png",
     "bannerImage": "https://space-md.github.io/admin/clientes/multimedia/agua-mael/1.png"
+  },
+  {
+    "id": 22,
+    "name": "Servicios E&M",
+    "space": "Construcción",
+    "type": "Drywall",
+    "actionType": "facebook",
+    "actionLink": "https://www.facebook.com/profile.php?id=61571906531780",
+    "color": "#0180f5",
+    "tier": "normal",
+    "whatsapp": "51924267039",
+    "location": "Piura",
+    "locationLink": "https://maps.app.goo.gl/Wf71Unr1X7FKL5PB6",
+    "description": "Construcción y acabados",
+    "profileImage": "https://scontent.flim18-1.fna.fbcdn.net/v/t39.30808-6/650383374_122149008008730217_5089628273128835670_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=ijv65j8CwAkQ7kNvwH-OXCM&_nc_oc=Adn6M5ftrliYeSmZvmtHc2qDD926eDs9E8ehMfIb29QE7S0P31ka2xYS3ji21gfgWRM&_nc_zt=23&_nc_ht=scontent.flim18-1.fna&_nc_gid=g6f24MuqBECZomhFBpOYGg&_nc_ss=8&oh=00_Afy9Sa4OFiXT9powANR9rF42B52gKq_tA3qDqJtmCzsHHg&oe=69BFD034",
+    "bannerImage": ""
   }
 ]
